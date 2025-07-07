@@ -1,2 +1,2 @@
-PlexAPI~=4.13.0
+PlexAPI~=4.17.0
 click~=8.1.3
